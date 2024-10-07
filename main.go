@@ -78,7 +78,7 @@ func iniciarMonitoramento() {
 			fmt.Println("Testando site", i, ":", site)
 			testaSite(site)
 		}
-		time.Sleep(delay * time.Second)
+		time.Sleep(delay * time.Minute)
 		fmt.Println("")
 
 	}

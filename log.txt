@@ -10,3 +10,7 @@
 07/10/2024 13:05:34 - https://www.alura.com.br - online: true
 07/10/2024 13:05:34 - https://www.youtube.com - online: true
 07/10/2024 13:05:34 - https://www.casadocodigo.com.br - online: true
+07/10/2024 13:52:41 - https://httpbin.org/status/404 - online: false
+07/10/2024 13:52:42 - https://www.alura.com.br - online: true
+07/10/2024 13:52:42 - https://www.youtube.com - online: true
+07/10/2024 13:52:42 - https://www.casadocodigo.com.br - online: true
